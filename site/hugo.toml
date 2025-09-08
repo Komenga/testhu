@@ -22,8 +22,8 @@ enableEmoji = true
   email = "simone.p.weiss@posteo.com"
 
   [params.header]
-    logo = "logo.svg"
-    title = " site title"
+    logo = "firstco.png"
+    title = " A first contribution to..."
 
   [params.footer]
     since = 2025
