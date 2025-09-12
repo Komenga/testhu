@@ -22,7 +22,7 @@ enableEmoji = true
   email = "simone.p.weiss@posteo.com"
 
   [params.header]
-    logo = "img/firstco.png"
+    logo = "logo.svg"
     title = " A first contribution to..."
 
   [params.footer]
